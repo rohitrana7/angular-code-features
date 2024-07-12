@@ -2,9 +2,10 @@
 1. angular test cases covering most commonly encountered scenarios with coverage report <br>
 	a. service <br>
 	b. input/output<br>
-	c. subscriptions<br>
+	c. subscriptions that can be added with other subs<br>
 	d. dummy Test component<br>
-	e. UI testing
+	e. UI testing <br>
+ f. mock service api call and return data
 	
 3. comma separated multi-search functionality
 	
@@ -42,3 +43,4 @@
 20. use various Rxjs operators like
     map, filter, pipe, distinctUntilChanged, forkJoin, switchMap, mergeMap, concatMap, from, fromEvent, of, debounceTime, catchError, tap, finalize, pluck, startWith, pluck, retry, take, takeUntil
 21. project using ngRx states
+22. project structure having services at each component level
