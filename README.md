@@ -44,3 +44,4 @@
     map, filter, pipe, distinctUntilChanged, forkJoin, switchMap, mergeMap, concatMap, from, fromEvent, of, debounceTime, catchError, tap, finalize, pluck, startWith, pluck, retry, take, takeUntil
 21. project using ngRx states
 22. project structure having services at each component level
+23. create own directive of handling custom auto-complete
